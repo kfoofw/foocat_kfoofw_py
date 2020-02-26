@@ -1,0 +1,1 @@
+from foocat_kfoofw_py import foocat_kfoofw_py
